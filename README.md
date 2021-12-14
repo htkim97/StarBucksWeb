@@ -1,6 +1,6 @@
 # StarBucksWeb
 
-#### 강의 내용을 포함, CSS와 HTML을 사용하여 카피 코딩
+#### 강의 내용을 포함, CSS와 HTML을 사용한 클론 웹 사이트
 <br>
 <br>
 
